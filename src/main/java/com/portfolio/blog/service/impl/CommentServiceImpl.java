@@ -7,7 +7,6 @@ import com.portfolio.blog.exception.ResourceNotFoundException;
 import com.portfolio.blog.repositories.BlogPostRepository;
 import com.portfolio.blog.repositories.CommentRepository;
 import com.portfolio.blog.service.CommentService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

@@ -3,8 +3,6 @@ package com.portfolio.blog.service;
 import com.portfolio.blog.dto.BlogPostDto;
 import com.portfolio.blog.dto.BlogResponseDto;
 
-import java.util.List;
-
 public interface BlogPostService {
 
     BlogPostDto createBlogPost(BlogPostDto blogPostDto);
